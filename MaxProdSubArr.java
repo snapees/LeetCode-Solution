@@ -1,3 +1,5 @@
+
+// Array Example
 import java.util.Scanner;
 
 public class MaxProdSubArr {
